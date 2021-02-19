@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="play">play_audio</string>
+    <string name="reset">Reset</string>
+    <string name="logo">cat_logo</string>
+    <string name="record">record_button</string>
+    <string name="stop">stop_recording_button</string>
+</resources>
